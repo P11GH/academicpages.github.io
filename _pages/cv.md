@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical Engineering, University of California, Riverside, 2017 
+* M.S. in Control Science and Engineering, Shanghai Jiao Tong University, 2013
+* B.S. in Information and Computing Sciences, Shandong University, 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor,  2021 - present
+  * Department of Automation, 
+  * Shanghai Jiao Tong University,
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Control Scientist & Electrical Engineer, 2018 - 2021
+  * Optimization & Control Group
+  * Pacific Northwest National Laboratory
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -56,4 +46,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* To be added
