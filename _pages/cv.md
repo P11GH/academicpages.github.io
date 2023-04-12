@@ -31,7 +31,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  To be added
+  You can find my articles on [My Google Scholar](https://scholar.google.com/citations?user=yo9kcvwAAAAJ)
   
 Talks
 ======
