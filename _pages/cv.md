@@ -33,12 +33,12 @@ Publications
   {% endfor %}</ul>
   You can find my articles on [My Google Scholar](https://scholar.google.com/citations?user=yo9kcvwAAAAJ)
   
-Talks
+<Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  To be added
+  To be added>
   
 Teaching
 ======
