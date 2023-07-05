@@ -12,8 +12,8 @@ I am currently an Assistant Professor with the Department of Automation, Shangha
 
 **Research Interest**
 ---
-new power systems, AI in power systems, 
-smart autonomous systems, multi-agent systems
+new power systems, AI in power systems   
+multi-agent systems，smart autonomous systems
 
 **News**
 ---
