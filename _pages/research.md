@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-LOCMAS: learning, control, and optimization of multi-agent systems
+LOCMAS: learning, optimization, and control of multi-agent systems
 
 Reserach Scope
 ======
