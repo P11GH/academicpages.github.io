@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Research"
+title: "Multi-agent Cybernetics Lab"
 permalink: /research/
 author_profile: true
 ---
 
-# Multi-agent Cybernetics Lab
+
 
 Reserach Scope
 ======
