@@ -50,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* To be added
+* member of Model Predictive Control and Intelligent Decision Committee of Chinese Association of Automation
