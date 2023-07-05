@@ -14,4 +14,8 @@ Project
   * funding source: NSFC
 * Coordination of multiple unmanned surface vehicles in time-varying enviroment with hybrid obstacles
   * co-PI
-  * funding source: SJTU 
+  * funding source: SJTU
+
+Group Members
+======
+to be added
