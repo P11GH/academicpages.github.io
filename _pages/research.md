@@ -23,10 +23,9 @@ Project
 
 Group Members
 ======
-
 Phd Student
 ------
-Xiangwei Wang
+Xiangwei Wang  
 
 Master Student
 ------
