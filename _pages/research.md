@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Multi-agent Cybernetics Lab"
+title: " "
 permalink: /research/
 author_profile: true
 ---
