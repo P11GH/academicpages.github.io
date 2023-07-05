@@ -5,6 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
+Reserach Scope
+======
+Optimization, control, and learning of multi-agent systems, including AI-based smart grid, coordination of multi-robot systems.
+
+
 Project
 ======
 * Analysis and Analysis and prediction of power system resilience based on sensitivity envelope chasing of distributed optimization
