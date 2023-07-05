@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peng Wang / Academic Website"
+title                    : "Peng Wang / About Me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
