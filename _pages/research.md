@@ -1,15 +1,16 @@
 ---
 layout: archive
-title: " "
+title: " LOCMAS Lab "
 permalink: /research/
 author_profile: true
 ---
 
-
+LOCMAS: learning, control, and optimization of multi-agent systems
+===
 
 Reserach Scope
 ======
-Optimization, control, and learning of multi-agent systems, including AI-based smart grid, coordination of multi-robot systems.
+Learning, optimization, and control of multi-agent systems, including AI-based smart grid, coordination of multi-robot systems.
 
 
 Project
