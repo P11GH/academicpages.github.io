@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+# Multi-agent Cybernetics Lab
+
 Reserach Scope
 ======
 Optimization, control, and learning of multi-agent systems, including AI-based smart grid, coordination of multi-robot systems.
