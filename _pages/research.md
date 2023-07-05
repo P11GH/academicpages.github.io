@@ -23,9 +23,5 @@ Project
 
 Group Members
 ======
-Phd Student
-------
-Xiangwei Wang  
-Master Student
-------
-Shunfeng Li
+Xiangwei Wang, PhD student
+Shunfeng Li, master student
