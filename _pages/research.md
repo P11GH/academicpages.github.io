@@ -23,6 +23,6 @@ Project
 
 Group Members
 ======
-Shunfeng Li, master student
-Fei Mo, master student
-Yanzhe Cen, master student
+* Shunfeng Li, master student
+* Fei Mo, master student
+* Yanzhe Cen, master student
