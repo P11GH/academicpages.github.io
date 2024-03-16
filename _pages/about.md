@@ -14,7 +14,7 @@ I am currently an Assistant Professor with the Department of Automation, Shangha
 ---
 Learning, optimization, and control of multi-agent systems
 * AI for decision and control
-* new power systems, AI-based power systems   
+* AI-based power systems, new power systems  
 * multi-agent systems，smart autonomous systems
 
 **News**
